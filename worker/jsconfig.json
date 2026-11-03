@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    "module": "esnext",
+    "target": "esnext",
+    "types": ["@cloudflare/workers-types"]
+  },
+  "include": ["src/**/*.js"],
+  "exclude": ["node_modules"]
+}
